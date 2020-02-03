@@ -12,6 +12,7 @@ OneDay App 是为了改善用户每日作息时间而生。灵感来源于隔壁
 
 ![截图](https://tva1.sinaimg.cn/large/006tNbRwly1gbjmoc1l71j31kw0u04fl.jpg)
 ![拖动交互](https://tva1.sinaimg.cn/large/006tNbRwgy1gbjngb2h4yg30ku0faadx.gif)
+
 ## 下载
 
 下载链接：[https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.9/OneDay1.0.9.tar.gz](https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.9/OneDay1.0.9.tar.gz) 
@@ -26,5 +27,5 @@ OneDay App 不会收集任何用户数据，请放心使用。
 
 ## 帮助
 
-如果您在使用过程中遇到问题，或者有更好的建议，请联系 app@ericjj.com 。
+如果您在使用过程中遇到问题，或者有更好的建议，请联系 [app@ericjj.com](app@ericjj.com)，或者加入 QQ反馈交流群 [655182831](//shang.qq.com/wpa/qunwpa?idkey=45943505c615d453eb74d68e1816f47ca557111e428fb89cf7ff307fbf6082fe)。
 
