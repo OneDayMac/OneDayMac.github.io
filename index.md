@@ -12,7 +12,7 @@ OneDay App 是为了改善用户每日作息时间而生。灵感来源于隔壁
 
 ![截图](https://tva1.sinaimg.cn/large/006tNbRwly1gbjmoc1l71j31kw0u04fl.jpg)
 ![拖动交互](https://tva1.sinaimg.cn/large/006tNbRwgy1gbjngb2h4yg30ku0faadx.gif)
-#### 下载
+## 下载
 
 下载链接：[https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.9/OneDay1.0.9.tar.gz](https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.9/OneDay1.0.9.tar.gz) 
 
@@ -20,11 +20,11 @@ OneDay App 是为了改善用户每日作息时间而生。灵感来源于隔壁
 
 OneDay App 提供7天免费试用。价格为 12¥ / 年。一个 App 从 Idea 到上线都经历了无数日日夜夜的工作。还有很多功能正在开发中，希望您理解。
 
-#### 隐私
+## 隐私
 
 OneDay App 不会收集任何用户数据，请放心使用。
 
-#### 帮助
+## 帮助
 
 如果您在使用过程中遇到问题，或者有更好的建议，请联系 app@ericjj.com 。
 
