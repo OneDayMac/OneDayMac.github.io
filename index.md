@@ -27,5 +27,5 @@ OneDay App 不会收集任何用户数据，请放心使用。
 
 ## 帮助
 
-如果您在使用过程中遇到问题，或者有更好的建议，请联系 [app@ericjj.com](app@ericjj.com)，或者加入 QQ反馈交流群 [655182831](//shang.qq.com/wpa/qunwpa?idkey=45943505c615d453eb74d68e1816f47ca557111e428fb89cf7ff307fbf6082fe)。
+如果您在使用过程中遇到问题，或者有更好的建议，请联系 [oneday@ericjj.com](oneday@ericjj.com)，或者加入 QQ反馈交流群 [655182831](//shang.qq.com/wpa/qunwpa?idkey=45943505c615d453eb74d68e1816f47ca557111e428fb89cf7ff307fbf6082fe)。
 
