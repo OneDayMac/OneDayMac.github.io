@@ -1,35 +1,12 @@
-## OneDay App
+## OneDay Mac App
 
-[下载链接](https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.1/OneDay1.0.1.tar.gz)
+一个简单的每日作息提醒工具。
 
-### Markdown
+[下载链接](https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.9/OneDay1.0.9.tar.gz) | [购买链接](https://buy.paddle.com/product/580339)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+OneDay App 是为了改善用户每日作息时间而生。灵感来源于隔壁学校的时间表，每到上课或休息时就会有各种铃提醒你时间到了，从而很规律地作息。
+您或许和我一样， 有这样的烦恼： `每天有四五个小时呆在电脑旁，写着代码忙着工作就忘了时间，以至于久坐、错过饭点、熬夜到凌晨`。 那么希望 OneDay App 也能帮到你。
 
-```markdown
-Syntax highlighted code block
+OneDay App 不同于其他时间管理类的 TODO、番茄钟、打卡、提醒事项等。您只需调整好自己需要的时间表后，每天打开App, 到了设定的作息时间， 就会以语音/弹窗的方式提醒您。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OneDayMac/OneDayMac.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
