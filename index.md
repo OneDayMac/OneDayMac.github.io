@@ -1,6 +1,6 @@
 ## OneDay App
 
-[下载链接](https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.9/OneDay1.0.9.tar.gz)
+[下载链接](https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.1/OneDay1.0.1.tar.gz)
 
 ### Markdown
 
