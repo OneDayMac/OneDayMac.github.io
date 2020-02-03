@@ -9,4 +9,4 @@ OneDay App 是为了改善用户每日作息时间而生。灵感来源于隔壁
 
 OneDay App 不同于其他时间管理类的 TODO、番茄钟、打卡、提醒事项等。您只需调整好自己需要的时间表后，每天打开App, 到了设定的作息时间， 就会以语音/弹窗的方式提醒您。
 
-
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbjml65txfj30rs0eognx.jpg)
