@@ -1,7 +1,7 @@
-theme: primer
+theme: jekyll-theme-primer
 name                     : &name "草莓大魔王 EricJJ"
 description              : &description "OneDay App Mac 每日时间规划提醒工具"
 google_site_verification : smCJSCOh0BvHZo9YtYLWu6Fd_l3H65ZssxYr_sn0iUs
 show_downloads: true
 google_analytics: UA-92213278-6
-theme: jekyll-theme-primer
+
