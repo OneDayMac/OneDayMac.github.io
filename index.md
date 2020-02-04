@@ -10,7 +10,7 @@ OneDay App 是为了改善用户每日作息时间而生。灵感来源于隔壁
 在管理日程表上，支持从 `日程组件` 任意拖拽到 `日程表`， 同时也支持 `日程表` 拖动排序。 时间自动往后滑动。
 
 
-![截图](https://tva1.sinaimg.cn/large/006tNbRwly1gbjmoc1l71j31kw0u04fl.jpg)
+![截图](https://tva1.sinaimg.cn/large/006tNbRwly1gbkg2iwowkj31l80t07kb.jpg)
 ![DarkMode](https://tva1.sinaimg.cn/large/006tNbRwly1gbkfskwrrqj31lc0t8k9y.jpg)
 ![拖动交互](https://tva1.sinaimg.cn/large/006tNbRwgy1gbjngb2h4yg30ku0faadx.gif)
 
