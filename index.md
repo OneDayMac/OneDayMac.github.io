@@ -15,7 +15,7 @@ OneDay App 是为了改善用户每日作息时间而生。灵感来源于隔壁
 
 ## 下载
 
-下载链接：[https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.17/OneDay1.0.17.tar.gz](https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.17/OneDay1.0.17.tar.gz) 
+下载链接：[https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.18/OneDay1.0.18.tar.gz](https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.18/OneDay1.0.18.tar.gz) 
 
 购买链接：[https://buy.paddle.com/product/580339](https://buy.paddle.com/product/580339)
 
