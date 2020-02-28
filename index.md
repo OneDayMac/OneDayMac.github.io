@@ -10,8 +10,8 @@ OneDay App 是为了改善用户每日作息时间而生。灵感来源于隔壁
 在管理日程表上，支持从 `日程组件` 任意拖拽到 `日程表`， 同时也支持 `日程表` 拖动排序。 时间自动往后滑动。
 
 
-![截图](https://tva1.sinaimg.cn/large/00831rSTly1gcc1pwzimlj31g60u01l1.jpg)
-![](https://tva1.sinaimg.cn/large/00831rSTly1gcc1u7hxznj31g60u0qv9.jpg)
+![截图](https://tva1.sinaimg.cn/large/00831rSTly1gcc1vunp30j31g60u0hdv.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTly1gcc1vv10kmj31g60u07wk.jpg)
 ## 下载
 
 OneDay App 支持 macOS 10.14 或更高版本，同时支持 DarkMode🌙。
