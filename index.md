@@ -16,7 +16,7 @@ OneDay App 是为了改善用户每日作息时间而生。灵感来源于隔壁
 
 OneDay App 支持 macOS 10.14 或更高版本，同时支持 DarkMode🌙。
 
-下载链接：[https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.23/OneDay1.0.23.tar.gz](https://github.com/OneDayMac/OneDayMac.github.io/releases/download/1.0.23/OneDay1.0.23.tar.gz) 
+下载链接：[null](null) 
 
 购买链接：[https://buy.paddle.com/product/580339](https://buy.paddle.com/product/580339)
 
